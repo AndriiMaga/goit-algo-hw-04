@@ -1,0 +1,5 @@
+Bohdan,3500
+Roman,5000
+Ihor, 4300
+Mykola,6250
+Ivan,5300
